@@ -14,7 +14,7 @@ int main(){
     printf("   Your Information   \n");
     showLine;
     printf("Enter your fullname : ");
-    scanf("%[^\n]", %fullname);
+    scanf("%[^\n]", &fullname);
     printf("Enter your nickname : ");
     scanf("%s", &nickname);
     printf("Enter your age : ");
