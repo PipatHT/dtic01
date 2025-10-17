@@ -1,7 +1,7 @@
 //ป้อนชื่อ-สกุล ชื่อเล่น อายุ เงินเดือน เเล้วเเสดงผลออกทางหน้าจอ
 #include <stdio.h>
 
-#define showLine printf("+++++++++++++++\n");
+#define showLine printf("++++++++++++++++++++++\n");
 
 
 int main(){
